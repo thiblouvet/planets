@@ -1,2 +1,4 @@
-*.dat
-results/
+**/*.dat
+!final.dat
+results/*
+!results/data/
